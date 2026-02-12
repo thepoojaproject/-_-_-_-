@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Happy Rose Day Madam Ji 💖</title>
+  <title>Happy Rose Day Madammm Ji 💖</title>
   <style>
     body {
       margin: 0;
@@ -12,7 +12,7 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      background: linear-gradient(135deg, #fff0f5, #ffe6f2);
+      background: linear-gradient(135deg, #fjf0f5, #fje6f2);
       font-family: system-ui, sans-serif;
       position: relative;
     }
